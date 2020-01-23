@@ -1,7 +1,3 @@
-//Shounak Ray, Jane Wang, Jacqueline Seal
-//Programming 15/25 - Roguelike Project
-//May 22, 2018
-
 // CLARIFICATIONS REGARDING PROJECT INTERPRETATION (FOR THE USER):
    //The window is not re-scalable. Changing window size mid-program will cause the objects on screen to disappear.
    //Elves are blue ampersands (&). Ogres are purple percent signs (%). Dragons are yellow dollar signs ($).
